@@ -1,0 +1,20 @@
+Project Name,Package Name,Type Name,NOF,NOPF,NOM,NOPM,LOC,WMC,NC,DIT,LCOM,FANIN,FANOUT
+group12,com.example.Trello.Group12.board,Board,4,0,8,8,30,8,0,0,0.375,5,2
+group12,com.example.Trello.Group12.board,BoardController,1,0,2,2,17,2,0,0,0.0,1,1
+group12,com.example.Trello.Group12.board,BoardRepo,0,0,0,0,2,0,0,0,-1.0,3,0
+group12,com.example.Trello.Group12.board,BoardService,3,0,2,2,25,4,0,0,0.0,2,5
+group12,com.example.Trello.Group12,Group12Application,0,0,1,1,5,1,0,0,-1.0,1,1
+group12,com.example.Trello.Group12,Group12Tests,12,0,18,0,197,18,0,0,0.1111111111111111,0,15
+group12,com.example.Trello.Group12.security,WebSecurityConfig,0,0,1,1,5,1,0,0,-1.0,0,0
+group12,com.example.Trello.Group12.task,Task,7,0,10,10,41,10,0,0,0.4,3,2
+group12,com.example.Trello.Group12.task,TaskController,1,0,2,2,10,2,0,0,0.0,1,1
+group12,com.example.Trello.Group12.task,TaskRepo,0,0,0,0,2,0,0,0,-1.0,3,0
+group12,com.example.Trello.Group12.task,TaskService,2,0,5,5,38,9,0,0,0.0,2,4
+group12,com.example.Trello.Group12.user,User,6,0,13,13,48,13,0,0,0.23076923076923078,6,0
+group12,com.example.Trello.Group12.user,UserController,1,0,4,4,20,4,0,0,0.0,1,2
+group12,com.example.Trello.Group12.user,UserRepo,0,0,1,0,3,1,0,0,-1.0,5,0
+group12,com.example.Trello.Group12.user,UserService,1,0,4,4,46,9,0,0,0.0,2,2
+group12,com.example.Trello.Group12.workspace,Workspace,5,0,15,15,56,15,0,0,0.2,3,2
+group12,com.example.Trello.Group12.workspace,WorkspaceController,1,0,7,7,31,7,0,0,0.0,1,1
+group12,com.example.Trello.Group12.workspace,WorkspaceRepo,0,0,1,0,3,1,0,0,-1.0,2,0
+group12,com.example.Trello.Group12.workspace,WorkspaceService,3,0,7,7,58,10,0,0,0.0,2,5

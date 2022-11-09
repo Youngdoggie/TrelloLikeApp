@@ -1,0 +1,14 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+group12,com.example.Trello.Group12,Group12Tests,testUpdateWorkspaceDetails,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testGetBoardByID,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testDeleteBoard,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testCreateTask,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testCreateTask,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testAssignMembersToTask,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testAssignMembersToTask,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testChangeTaskStatus,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testChangeTaskStatus,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testSearchTasks,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testSearchTasks,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testSearchTasks,Long Statement
+group12,com.example.Trello.Group12,Group12Tests,testSearchTasks,Long Statement

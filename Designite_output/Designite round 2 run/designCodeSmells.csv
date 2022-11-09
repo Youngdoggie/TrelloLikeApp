@@ -1,0 +1,8 @@
+Project Name,Package Name,Type Name,Code Smell
+group12,com.example.Trello.Group12.board,Board,Cyclic-Dependent Modularization
+group12,com.example.Trello.Group12.board,BoardRepo,Unnecessary Abstraction
+group12,com.example.Trello.Group12,Group12Tests,Unutilized Abstraction
+group12,com.example.Trello.Group12.security,WebSecurityConfig,Unutilized Abstraction
+group12,com.example.Trello.Group12.task,Task,Cyclic-Dependent Modularization
+group12,com.example.Trello.Group12.task,TaskRepo,Unnecessary Abstraction
+group12,com.example.Trello.Group12.workspace,Workspace,Cyclic-Dependent Modularization

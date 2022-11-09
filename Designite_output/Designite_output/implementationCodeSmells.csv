@@ -1,0 +1,7 @@
+Project Name,Package Name,Type Name,Method Name,Code Smell
+
+java,com.example.Trello.Group12.board,BoardService,addTask,Long Parameter List
+
+java,com.example.Trello.Group12.task,Task,Task,Long Parameter List
+\
+java,com.example.Trello.Group12.user,User,User,Long Parameter List

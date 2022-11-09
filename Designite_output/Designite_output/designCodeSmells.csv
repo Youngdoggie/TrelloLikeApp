@@ -1,0 +1,21 @@
+Project Name,Package Name,Type Name,Code Smell
+
+java,com.example.Trello.Group12.board,Board,Cyclic-Dependent Modularization
+
+java,com.example.Trello.Group12.board,BoardController,Unutilized Abstraction
+
+java,com.example.Trello.Group12.board,BoardRepo,Unnecessary Abstraction
+
+java,com.example.Trello.Group12.security,WebSecurityConfig,Unutilized Abstraction
+
+java,com.example.Trello.Group12.task,Task,Cyclic-Dependent Modularization
+
+java,com.example.Trello.Group12.task,TaskController,Unutilized Abstraction
+
+java,com.example.Trello.Group12.task,TaskRepo,Unnecessary Abstraction
+
+java,com.example.Trello.Group12.user,UserController,Unutilized Abstraction
+
+java,com.example.Trello.Group12.workspace,Workspace,Cyclic-Dependent Modularization
+
+java,com.example.Trello.Group12.workspace,WorkspaceController,Unutilized Abstraction
